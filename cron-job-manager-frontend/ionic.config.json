@@ -1,0 +1,7 @@
+{
+  "name": "cron-job-manager-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
